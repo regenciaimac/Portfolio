@@ -1,0 +1,68 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+span{
+  color: #fcc30b;
+}
+body{
+  width: 100%;
+}
+
+/* Navigation */
+nav{
+  background-color: black;
+  color: white;
+  padding: 10px 25px;
+  position: sticky;
+  top: 0;
+}
+.logo{
+  display: inline-block;
+  position: relative;
+  left: 100px;
+}
+.logo h1{
+  display: inline-block;
+  position: relative;
+  top: -15px;
+  left: 10px;
+}
+.links{
+  float: right;
+  position: relative;
+  top: 15px;
+  margin: 0 100px;
+}
+.link{
+  text-decoration: none;
+  color: white;
+  margin: 10px;
+  font-size: 20px;
+}
+/* End of navigation */
+
+#home{
+  width: 100%;
+  height: 100%;
+}
+.dp img{
+  float: right;
+  margin-top: 50px;
+  margin-right: 80px;
+}
+.dt h1{
+  display: inline-block;
+  position: relative;
+  top: 200px;
+  left: 80px;
+  font-size: 50px;
+}
+
+.dt h3{
+  display: inline-block;
+  position: relative;
+  top: 200px;
+  left: 80px;
+  font-size: 30px;
+}
